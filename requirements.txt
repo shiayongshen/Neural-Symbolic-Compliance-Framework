@@ -1,0 +1,15 @@
+autogen==0.9.2
+autogen_agentchat==0.2.36
+chromadb==1.0.7
+FlagEmbedding
+fpdf==1.7.2
+gradio==5.37.0
+numpy
+openai==1.95.1
+pandas==2.1.2
+rank-bm25
+torch==2.1.0
+torchvision==0.16.0
+torchaudio
+z3_solver==4.13.4.0
+transformers
